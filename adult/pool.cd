@@ -1,0 +1,15 @@
+0	Label
+1	Num	Age
+2	Categ	Workclass
+3	Num	Fnlwgt
+4	Categ	education
+5	Num	Education num
+6	Categ	Marital status
+7	Categ	Occupation
+8	Categ	Relationship
+9	Categ	Race
+10	Categ	Sex
+11	Num	Capital gain
+12	Num	Capital loss
+13	Num	Hours per week
+14	Categ	Native country
